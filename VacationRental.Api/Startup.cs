@@ -1,11 +1,20 @@
-﻿using System.Collections.Generic;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
-using VacationRental.Api.Models;
+using VacationalRental.Infrastructure.Memory;
+using VacationalRental.Infrastructure.Memory.Booking;
+using VacationalRental.Infrastructure.Memory.Rental;
+using VacationRental.AppService.Booking.Services;
+using VacationRental.AppService.Booking.Services.Impl;
+using VacationRental.AppService.Calendar.Services;
+using VacationRental.AppService.Calendar.Services.Impl;
+using VacationRental.AppService.Rental.Services;
+using VacationRental.AppService.Rental.Services.Impl;
+using VacationRental.Domain.Booking.Services;
+using VacationRental.Domain.Rental.Services;
 
 namespace VacationRental.Api
 {
@@ -25,8 +34,15 @@ namespace VacationRental.Api
 
             services.AddSwaggerGen(opts => opts.SwaggerDoc("v1", new Info { Title = "Vacation rental information", Version = "v1" }));
 
-            services.AddSingleton<IDictionary<int, RentalViewModel>>(new Dictionary<int, RentalViewModel>());
-            services.AddSingleton<IDictionary<int, BookingViewModel>>(new Dictionary<int, BookingViewModel>());
+            //AppService 
+            services.AddTransient<IRentalAppService, RentalAppService>();
+            services.AddTransient<IBookingAppService, BookingAppService>();
+            services.AddTransient<ICalendarAppService, CalendarAppService>();
+
+            //Infrastructure 
+            services.AddSingleton<IStorageManager, MemoryStorageManager>();
+            services.AddTransient<IBookingDomainService, BookingDomainService>();
+            services.AddTransient<IRentalDomainService, RentalDomainService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
