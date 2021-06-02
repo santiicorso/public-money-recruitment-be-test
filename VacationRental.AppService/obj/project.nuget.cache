@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtD46QpOLbV0LYT32eAys7AO9QK1APRmKjLel0UOVJsJ3LlZsMbygYjAofnQnarEocupOIfd7BNsH6u1IOBV7w==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Nueva carpeta\\public-money-recruitment-be-test\\VacationRental.AppService\\VacationRental.AppService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santii\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Santii\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Santii\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Santii\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Santii\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Santii\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Santii\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
