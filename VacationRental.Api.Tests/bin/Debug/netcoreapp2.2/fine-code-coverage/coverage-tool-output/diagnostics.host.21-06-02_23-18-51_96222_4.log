@@ -1,0 +1,120 @@
+TpTrace Information: 0 : 29524, 1, 2021/06/02, 23:18:52.180, 1930932213869, testhost.dll, DefaultEngineInvoker: Monitoring parent process with id: '16968'
+TpTrace Information: 0 : 29524, 1, 2021/06/02, 23:18:52.199, 1930932373136, testhost.dll, DefaultEngineInvoker: Initialize communication on port number: '49895'
+TpTrace Information: 0 : 29524, 1, 2021/06/02, 23:18:52.204, 1930932419099, testhost.dll, Trying to connect to server on port : 49895
+TpTrace Information: 0 : 29524, 7, 2021/06/02, 23:18:52.233, 1930932709902, testhost.dll, Connected to the server successfully 
+TpTrace Information: 0 : 29524, 1, 2021/06/02, 23:18:52.389, 1930934272245, testhost.dll, DefaultEngineInvoker: Start Request Processing.
+TpTrace Information: 0 : 29524, 6, 2021/06/02, 23:18:52.446, 1930934845328, testhost.dll, Discovery Session Initialize.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.468, 1930935063376, testhost.dll, TestPluginCache: Updating loadOnlyWellKnownExtensions from False to False.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.469, 1930935070507, testhost.dll, TestPluginCache: Using directories for assembly resolution 'E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api.Tests\bin\Debug\netcoreapp2.2\fine-code-coverage\build-output'.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.469, 1930935071599, testhost.dll, TestPluginCache: Updated the available extensions to 'E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api.Tests\bin\Debug\netcoreapp2.2\fine-code-coverage\build-output\xunit.runner.visualstudio.dotnetcore.testadapter.dll'.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.470, 1930935077951, testhost.dll, TestExecutorService: Loading the extensions
+TpTrace Information: 0 : 29524, 6, 2021/06/02, 23:18:52.475, 1930935128135, testhost.dll, Execution started.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.477, 1930935148621, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Error: 0 : 29524, 9, 2021/06/02, 23:18:52.477, 1930935155489, testhost.dll, Default extensions folder does not exist
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.483, 1930935216027, testhost.dll, AssemblyResolver: xunit.runner.visualstudio.dotnetcore.testadapter: Resolving assembly.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.486, 1930935236649, testhost.dll, AssemblyResolver: xunit.runner.visualstudio.dotnetcore.testadapter: Resolved assembly. 
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.488, 1930935263205, testhost.dll, AssemblyResolver: xunit.runner.utility.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.489, 1930935270055, testhost.dll, AssemblyResolver: xunit.runner.utility.netcoreapp10: Resolved assembly. 
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.495, 1930935331367, testhost.dll, TestPluginCache: Discovered the extensions using extension path 'E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api.Tests\bin\Debug\netcoreapp2.2\fine-code-coverage\build-output\xunit.runner.visualstudio.dotnetcore.testadapter.dll'.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.496, 1930935343395, testhost.dll, TestPluginCache: Discoverers are 'Xunit.Runner.VisualStudio.VsTestRunner, xunit.runner.visualstudio.dotnetcore.testadapter, Version=2.4.1.0, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c'.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.496, 1930935344027, testhost.dll, TestPluginCache: Executors are 'executor://xunit/VsTestRunner2/netcoreapp'.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.496, 1930935344531, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.496, 1930935345018, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.502, 1930935404913, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.VsTestRunner
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.503, 1930935406286, testhost.dll, TestDiscoveryManager: LoadExtensions: Created discoverer Xunit.Runner.VisualStudio.VsTestRunner
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.503, 1930935407250, testhost.dll, TestExecutorService: Loaded the discoverers
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.507, 1930935453303, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.VsTestRunner
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.507, 1930935454237, testhost.dll, TestExecutorExtensionManager: Loading executor Xunit.Runner.VisualStudio.VsTestRunner
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.507, 1930935454636, testhost.dll, TestExecutorService: Loaded the executors
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.510, 1930935477011, testhost.dll, TestExecutorService: Loaded the settings providers
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.510, 1930935477611, testhost.dll, TestExecutorService: Loaded the extensions
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.534, 1930935723123, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Common.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.545, 1930935833524, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.ObjectModel.resources: Resolving assembly.
+TpTrace Warning: 0 : 29524, 9, 2021/06/02, 23:18:52.547, 1930935847853, testhost.dll, Configuración no válida: 'RunConfiguration'. Elemento XML no esperado: 'CollectSourceInformation'.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.554, 1930935926339, testhost.dll, TestDiscoveryManager: Discovering tests from sources E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api.Tests\bin\Debug\netcoreapp2.2\fine-code-coverage\build-output\VacationRental.Api.Tests.dll
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:52.559, 1930935968375, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Running tests for executor://xunit/VsTestRunner2/netcoreapp
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:52.567, 1930936047659, testhost.dll, [xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.1 (64-bit .NET Core 4.6.27110.04)
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.306, 1930943444795, testhost.dll, AssemblyResolver: xunit.runner.reporters.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.307, 1930943449917, testhost.dll, AssemblyResolver: xunit.runner.reporters.netcoreapp10: Resolved assembly. 
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.308, 1930943460131, testhost.dll, AssemblyResolver: xunit.runner.utility.netcoreapp10: Resolving assembly.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.308, 1930943460676, testhost.dll, AssemblyResolver: xunit.runner.utility.netcoreapp10: Resolved from cache.
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.412, 1930944502363, testhost.dll, [xUnit.net 00:00:00.85]   Discovering: VacationRental.Api.Tests
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.473, 1930945110039, testhost.dll, [xUnit.net 00:00:00.91]   Discovered:  VacationRental.Api.Tests
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:53.477, 1930945155079, testhost.dll, [xUnit.net 00:00:00.91]   Starting:    VacationRental.Api.Tests
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.773, 1930948115550, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.DataProtection.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.774, 1930948120490, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.DataProtection.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.868, 1930949065709, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Mvc.Abstractions.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.869, 1930949069582, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Mvc.Abstractions.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.900, 1930949380984, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Mvc.Core.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.901, 1930949386625, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Mvc.Core.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.920, 1930949578830, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Mvc.Razor.Extensions.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.920, 1930949582417, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Mvc.Razor.Extensions.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.927, 1930949652863, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Razor.Language.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 14, 2021/06/02, 23:18:53.928, 1930949657242, testhost.dll, AssemblyResolver: Microsoft.AspNetCore.Razor.Language.resources: Resolving assembly.
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.248, 1930952856409, testhost.dll, Sending test run statistics
+TpTrace Verbose: 0 : 29524, 13, 2021/06/02, 23:18:54.286, 1930953241660, testhost.dll, TestRunCache: OnNewTestResult: Notified the onCacheHit callback.
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.901, 1930959392498, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.907, 1930959447021, testhost.dll, TestRunCache: No test found corresponding to testResult 'VacationRental.Api.Tests.GetCalendarTests.GivenCompleteRequest_WhenGetCalendar_ThenAGetReturnsTheCalculatedCalendar  Correctas' in inProgress list.
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.908, 1930959462593, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.913, 1930959509015, testhost.dll, InProgressTests is null
+TpTrace Error: 0 : 29524, 13, 2021/06/02, 23:18:54.959, 1930959974738, testhost.dll, [xUnit.net 00:00:02.39]     VacationRental.Api.Tests.PostBookingTests.GivenCompleteRequestWithPreparationDays_WhenPostBooking_ThenAGetReturnsTheCreatedBooking [FAIL]
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.961, 1930959989280, testhost.dll, [xUnit.net 00:00:02.40]       System.ApplicationException : Not available
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.962, 1930960000735, testhost.dll, [xUnit.net 00:00:02.40]       Stack Trace:
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.963, 1930960010250, testhost.dll, [xUnit.net 00:00:02.40]         E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\Booking\Services\Impl\BookingAppService.cs(47,0): at VacationRental.AppService.Booking.Services.Impl.BookingAppService.Create(CreateBookingRequest createBookingRequest)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.963, 1930960012689, testhost.dll, [xUnit.net 00:00:02.40]         E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api\Controllers\BookingsController.cs(42,0): at VacationRental.Api.Controllers.BookingsController.Post(BookingBindingModel model)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.963, 1930960014080, testhost.dll, [xUnit.net 00:00:02.40]            at lambda_method(Closure , Object , Object[] )
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.963, 1930960015017, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.963, 1930960016243, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960017061, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960017903, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960019119, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960020003, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960022532, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960023596, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960024857, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.964, 1930960026013, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960026964, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960028134, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960028934, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960029721, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.TestHost.HttpContextBuilder.<>c__DisplayClass10_0.<<SendAsync>b__0>d.MoveNext()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960030458, testhost.dll, [xUnit.net 00:00:02.40]         --- End of stack trace from previous location where exception was thrown ---
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960031288, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.TestHost.ClientHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960032116, testhost.dll, [xUnit.net 00:00:02.40]            at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960033355, testhost.dll, [xUnit.net 00:00:02.40]         E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api.Tests\PostBookingTests.cs(124,0): at VacationRental.Api.Tests.PostBookingTests.GivenCompleteRequestWithPreparationDays_WhenPostBooking_ThenAGetReturnsTheCreatedBooking()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.965, 1930960034783, testhost.dll, [xUnit.net 00:00:02.40]         --- End of stack trace from previous location where exception was thrown ---
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.967, 1930960052857, testhost.dll, InProgressTests is null
+TpTrace Error: 0 : 29524, 13, 2021/06/02, 23:18:54.967, 1930960055431, testhost.dll, [xUnit.net 00:00:02.40]     VacationRental.Api.Tests.PostBookingTests.GivenCompleteRequest_WhenPostBooking_ThenAPostReturnsErrorWhenThereIsOverbooking [FAIL]
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.968, 1930960058469, testhost.dll, [xUnit.net 00:00:02.40]       System.ApplicationException : Not available
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.968, 1930960060572, testhost.dll, [xUnit.net 00:00:02.40]       Stack Trace:
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.968, 1930960063518, testhost.dll, [xUnit.net 00:00:02.40]         E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\Booking\Services\Impl\BookingAppService.cs(47,0): at VacationRental.AppService.Booking.Services.Impl.BookingAppService.Create(CreateBookingRequest createBookingRequest)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.969, 1930960066301, testhost.dll, [xUnit.net 00:00:02.40]         E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api\Controllers\BookingsController.cs(42,0): at VacationRental.Api.Controllers.BookingsController.Post(BookingBindingModel model)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.969, 1930960069080, testhost.dll, [xUnit.net 00:00:02.40]            at lambda_method(Closure , Object , Object[] )
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.969, 1930960071034, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.969, 1930960073485, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.969, 1930960074968, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.970, 1930960076823, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.970, 1930960078513, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.970, 1930960080303, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.970, 1930960083008, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.970, 1930960085437, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.971, 1930960087108, testhost.dll, [xUnit.net 00:00:02.40]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.971, 1930960090186, testhost.dll, [xUnit.net 00:00:02.41]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.971, 1930960093679, testhost.dll, [xUnit.net 00:00:02.41]            at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.972, 1930960096695, testhost.dll, [xUnit.net 00:00:02.41]            at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.972, 1930960100566, testhost.dll, [xUnit.net 00:00:02.41]            at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.972, 1930960104326, testhost.dll, [xUnit.net 00:00:02.41]            at Microsoft.AspNetCore.TestHost.HttpContextBuilder.<>c__DisplayClass10_0.<<SendAsync>b__0>d.MoveNext()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.973, 1930960106600, testhost.dll, [xUnit.net 00:00:02.41]         --- End of stack trace from previous location where exception was thrown ---
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.973, 1930960108387, testhost.dll, [xUnit.net 00:00:02.41]            at Microsoft.AspNetCore.TestHost.ClientHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.973, 1930960109797, testhost.dll, [xUnit.net 00:00:02.41]            at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.973, 1930960113061, testhost.dll, [xUnit.net 00:00:02.41]         E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Api.Tests\PostBookingTests.cs(81,0): at VacationRental.Api.Tests.PostBookingTests.GivenCompleteRequest_WhenPostBooking_ThenAPostReturnsErrorWhenThereIsOverbooking()
+TpTrace Information: 0 : 29524, 13, 2021/06/02, 23:18:54.974, 1930960117250, testhost.dll, [xUnit.net 00:00:02.41]         --- End of stack trace from previous location where exception was thrown ---
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.974, 1930960122564, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.984, 1930960218768, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:54.995, 1930960328534, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 29524, 13, 2021/06/02, 23:18:55.009, 1930960468569, testhost.dll, InProgressTests is null
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:55.023, 1930960616177, testhost.dll, [xUnit.net 00:00:02.46]   Finished:    VacationRental.Api.Tests
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:55.029, 1930960669176, testhost.dll, TestExecutionManager.RunTestInternalWithExecutors: Completed running tests for executor://xunit/VsTestRunner2/netcoreapp
+TpTrace Information: 0 : 29524, 9, 2021/06/02, 23:18:55.031, 1930960692259, testhost.dll, Sending test run complete
+TpTrace Verbose: 0 : 29524, 9, 2021/06/02, 23:18:55.050, 1930960885269, testhost.dll, BaseRunTests.RunTests: Run is complete.
+TpTrace Information: 0 : 29524, 6, 2021/06/02, 23:18:55.051, 1930960893913, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 29524, 6, 2021/06/02, 23:18:55.053, 1930960907799, testhost.dll, Closing the connection !

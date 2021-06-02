@@ -1,0 +1,24 @@
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.AppService.deps.json
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.AppService.dll
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.AppService.pdb
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.Domain.dll
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.Domain.pdb
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.csproj.AssemblyReference.cache
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.AssemblyInfoInputs.cache
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.AssemblyInfo.cs
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.csproj.CoreCompileInputs.cache
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.csproj.CopyComplete
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.dll
+E:\Projects\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.pdb
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.AppService.deps.json
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.AppService.dll
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.AppService.pdb
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.Domain.dll
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\bin\Debug\netcoreapp2.1\VacationRental.Domain.pdb
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.csproj.AssemblyReference.cache
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.AssemblyInfoInputs.cache
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.AssemblyInfo.cs
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.csproj.CoreCompileInputs.cache
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.csproj.CopyComplete
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.dll
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.AppService\obj\Debug\netcoreapp2.1\VacationRental.AppService.pdb

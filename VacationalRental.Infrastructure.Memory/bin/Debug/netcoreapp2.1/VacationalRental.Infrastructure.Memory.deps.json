@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "VacationalRental.Infrastructure.Memory/1.0.0": {
+        "dependencies": {
+          "VacationRental.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VacationalRental.Infrastructure.Memory.dll": {}
+        }
+      },
+      "VacationRental.Domain/1.0.0": {
+        "runtime": {
+          "VacationRental.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VacationalRental.Infrastructure.Memory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VacationRental.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

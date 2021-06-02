@@ -1,0 +1,16 @@
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\bin\Debug\netcoreapp2.1\VacationRental.Domain.deps.json
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\bin\Debug\netcoreapp2.1\VacationRental.Domain.dll
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\bin\Debug\netcoreapp2.1\VacationRental.Domain.pdb
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.AssemblyInfoInputs.cache
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.AssemblyInfo.cs
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.dll
+E:\Projects\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.pdb
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\bin\Debug\netcoreapp2.1\VacationRental.Domain.deps.json
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\bin\Debug\netcoreapp2.1\VacationRental.Domain.dll
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\bin\Debug\netcoreapp2.1\VacationRental.Domain.pdb
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.AssemblyInfoInputs.cache
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.AssemblyInfo.cs
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.dll
+E:\Projects\Nueva carpeta\public-money-recruitment-be-test\VacationRental.Domain\obj\Debug\netcoreapp2.1\VacationRental.Domain.pdb
